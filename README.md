@@ -1,23 +1,10 @@
 
 # GENRUNNER 2: The Next Generation
 
-> **"Speed is the only currency in the digital void. Survival is the only law."**
 
-**GenRunner 2** is a high-octane, retro-futuristic endless racer designed specifically for the **GenLayer** community. Built with a cyberpunk aesthetic and a "last-driver-standing" multiplayer architecture, it transforms a classic arcade loop into a social event.
+**GenRunner 2** is a broswer based web3 game that integrate blockchain technology .
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
-![Tech](https://img.shields.io/badge/tech-React%20%7C%20Firebase%20%7C%20Canvas-black)
-
-## 🏎️ The Game
-
-Set against a backdrop of scrolling grids and CRT scanlines, GenRunner 2 is a test of reflexes and endurance.
-
-*   **Genre:** Retro-Futuristic Endless Racer / Survival.
-*   **Aesthetic:** Stark Monochrome with Neon Accents (Yellow/Red/Blue), inspired by 80s arcade cabinets and modern cyberpunk UI.
-*   **The Goal:** Survive. Speed increases indefinitely. Traffic is relentless. One crash, and you are out.
-
-## 🤝 Community & Multiplayer
+ Community & Multiplayer
 
 Unlike standard single-player infinite runners, GenRunner 2 is built to be played **together**.
 
